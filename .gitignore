@@ -1,6 +1,9 @@
 # Excel temporary lock files
 ~$*.xlsx
 
+# Local submission copies with registration number
+IT*_Assignment 1 - Test cases.xlsx
+
 # Python cache files
 __pycache__/
 *.py[cod]
